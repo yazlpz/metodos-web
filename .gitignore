@@ -1,2 +1,14 @@
 # Google App Engine generated folder
 AppData/
+# Ignorar archivos del sistema operativo
+*.log
+*.tmp
+*.bin
+*.DS_Store
+
+# Ignorar archivos de Visual Studio Code
+.vscode/
+
+# Ignorar archivos de caché de navegadores y del sistema
+.cache/
+
